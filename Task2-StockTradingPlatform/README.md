@@ -1,4 +1,4 @@
-# Task 2 – Stock Trading Platform
+Stock Trading Platform
 
 This Java application simulates a basic stock trading experience through a console-based menu system.
 
